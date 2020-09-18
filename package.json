@@ -1,0 +1,22 @@
+{
+  "name": "testingsql",
+  "version": "1.0.0",
+  "description": "testing sql db for the project",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "testingSQL"
+  },
+  "keywords": [
+    "test",
+    "SQL"
+  ],
+  "author": "Vladislav Mun",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
